@@ -6,6 +6,8 @@ function isPalindrome(word) {
 
 /* 
   Add your pseudocode here
+  -Delcare variable to store reversed string
+  -Check whether original string strict equals reversed string
 */
 
 /*
